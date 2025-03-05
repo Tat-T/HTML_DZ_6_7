@@ -9,7 +9,11 @@
 Открываем файл index.html (главная страница)
 нажимаем вкладку навигации Articles, тут при изменении размера меняется компоновка и размер шрифта. 
 
+<img src="images/Screenshot_1.png" alt="" width="">
+<img src="images/Screenshot_2.png" alt="" width="">
+
 ---
+
 ### Задание 2
 
 Реализовать html-страницу со статьей и изображениями.
@@ -20,6 +24,10 @@
  ■ изображения с подписями.
  Для разной ширины экрана должна быть разная компоновка 
 блоков страницы.
+
+<img src="images/Screenshot_3.png" alt="" width="">
+<img src="images/Screenshot_4.png" alt="" width="">
+<img src="images/Screenshot_5.png" alt="" width="">
 
 ---
 
@@ -35,3 +43,7 @@
 
  Для разной ширины экрана должна быть разная компоновка 
 блоков страницы.
+
+<img src="images/Screenshot_6.png" alt="" width="">
+<img src="images/Screenshot_7.png" alt="" width="">
+<img src="images/Screenshot_8.png" alt="" width="">
